@@ -1,5 +1,5 @@
 # Crypto-Price-Predictor
-This code allows you top predict future prices of cryptocurrencies, by learning the patterns of previous open and close values. The data is input using Pandas, and then once cryptocurrency is chosen. We then create a model to find out the predicted price of the crypto. The data is broken into test_data and train_data, and its distribution can be viewd graphically:
+This code allows you top predict future prices of cryptocurrencies, by learning the patterns of previous open and close values. The data is input using Pandas, and then once cryptocurrency is chosen, we then create a model to find out the predicted price of the crypto. The data is broken into test_data and train_data, and its distribution can be viewed graphically:
 
 
 ![price_fluctuation](https://github.com/Carthicc/Crypto-Price-Predictor/blob/main/images/price%20fluctuation.png)
